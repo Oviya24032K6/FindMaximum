@@ -52,13 +52,19 @@ def max_marks(marks):
 ```
 ## Output:
 #output for find the maximum of numbers using list method sort.
-![OUTPUT](<sort.find max-1.png>)
 
-#output for find the maximum of numbers using list method max()
-![OUTPUT](<max().find max-1.png>)
+![image](https://github.com/Oviya24032K6/FindMaximum/assets/147139999/7fb80847-405a-4478-a9dd-e0810a506bed)
+
+
+#output for find the maximum of numbers using list method max().
+
+![image](https://github.com/Oviya24032K6/FindMaximum/assets/147139999/70179370-bcd9-42b6-9719-71429e8bdc9a)
 
 #output for find the maximum of numbers using buitin function.
-![OUTPUT](<buildin.find max-1.png>)
+
+![image](https://github.com/Oviya24032K6/FindMaximum/assets/147139999/87a31e38-b1ba-4203-8659-9616a5a33221)
+
+
 
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
